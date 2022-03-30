@@ -1,0 +1,10 @@
+name: Un2dies
+version: '${project.version}'
+main: com.un2dies.pack
+api-version: 1.12
+authors: [ Teerut26 ]
+description: un2dies plugin pack
+commands:
+  test:
+    usage: /<command>
+    description: test command
