@@ -1,4 +1,4 @@
-name: Un2dies
+name: un2dies_pack
 version: '${project.version}'
 main: com.un2dies.pack
 api-version: 1.12
